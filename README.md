@@ -56,8 +56,8 @@ https://freessr.win/ | 是 | 从 0 点 10 分开始，每 6 小时
 https://free-ss.site/ | 是 | 从 0 点 10 分开始，每 3 小时
 https://www.52ssr.cn/ | 是 | 从 0 点 10 分开始，每 3 小时
 https://free.yitianjianss.com/ | 是 | 从 0 点 10 分开始，每 3 小时
-https://cloudfra.com/ | 是 | 从 0 点 10 分开始，每 3 小时
-
+https://cloudfra.com/ | 是的从0点10分开始，每3小时
+https://www.ssrtool.com/tool/free_ssr                  | 是的从0点1分开始，每6小时
 
 ## 系统部署
 
